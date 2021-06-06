@@ -1,0 +1,15 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åŞó—8¸×˜æ›/
+
+java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨¿³¥8Á¼šæ›/
+H
+java:S1168 "+Return an empty collection instead of null.(¥¹ï8Õˆ›æ›/
+K
+java:S1068	")Remove this unused "clazz" private field.(¤âæ±ûÿÿÿÿ8Á¼šæ›/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë ¤¦8óÈ™æ›/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÚŒÁÂ8Â—™æ›/
+L
+java:S1172"/Remove this unused method parameter "entityId".(‡€…8®©›æ›/
